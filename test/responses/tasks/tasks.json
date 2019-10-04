@@ -1,0 +1,26 @@
+{
+
+  "activeTasks": [
+    {
+      "name": "Laundry",
+      "description": "Do the Laundry before today evening",
+      "status": "Pending"
+    },
+    {
+      "name": "Gym",
+      "description": "Target to burn 200 calories today",
+      "status": "Pending"
+    },
+    {
+      "name": "Pay the Bills",
+      "description": "Pay Electricity bill by today evening",
+      "status": "Pending"
+    }],
+  "completedTasks":[
+    {
+      "name": "Buy Groceries",
+      "description": "Buy the groceries before the sale ends",
+      "status": "Completed"
+    }
+  ]
+}
