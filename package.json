@@ -57,7 +57,7 @@
     "merge-stream": "^1.0.1",
     "moment": "^2.20.1",
     "node-libs-browser": "1.0.0",
-    "node-sass": "4.4.0",
+    "node-sass": "4.13.1",
     "require-dir": "^0.3.2",
     "requirejs": "^2.3.5",
     "restify": "^6.3.4",
